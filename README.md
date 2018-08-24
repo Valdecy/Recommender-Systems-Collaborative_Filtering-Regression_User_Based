@@ -5,6 +5,6 @@ Collaborative Filtering: This approach builds a model from past behaviors, compa
 
 * user_in_columns = Boolean that indicates if the user is in the column (user_in_column = True) or in the row (user_in_column = False). The default value is True.
 
-* pack_size = To find the weights a metaheuristic know as Grey Wolf Optmizer (GWO) is used. The initial population (pack_size) if helps to find the optimal solution. The default value is 25.
+* pack_size = To find the weights, a metaheuristic know as Grey Wolf Optmizer (GWO) is used. The initial population (pack_size) helps to find the optimal solution. The default value is 25.
 
 * iterations = The total number of iterations. The defaul value is 100
